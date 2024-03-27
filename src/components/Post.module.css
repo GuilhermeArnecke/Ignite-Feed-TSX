@@ -31,12 +31,14 @@
 .post > header {
   display: flex;
   align-items: center;
-  justify-content: space-between
+  justify-content: space-between;
 }
 
-.post > header > time {
+.postTime {
   font-size: 0.875rem;
   color: var(--gray-400);
+  right: 0;
+  padding-left: 21rem;
 }
 
 .author {
@@ -76,7 +78,8 @@
   border: 0;
   resize: none;
   height: 6rem;
-  padding: 1px;
+  padding-left: 16px;
+  padding-top: 8px;
   border-radius: 8px;
   color: var(--gray-100);
   line-height: 1.4;
