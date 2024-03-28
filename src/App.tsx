@@ -19,13 +19,13 @@ const posts: PostType[] = [
       role: "Technical Support in eTriax",
     },
     content: [
-      { type: "paragraph", content: "Fala galeraa 👋" },
+      { type: "paragraph", content: "Opa, bão? 👋" },
       {
         type: "paragraph",
         content:
-          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "Acabei de deixar público meu projeto do Ignite-Feed em TSX.. Passa dar uma olhada no meu repositório!!",
       },
-      { type: "link", content: "jane.design/doctorcare" },
+      { type: "link", content: "https://github.com/GuilhermeArnecke/Ignite-Feed-TSX" },
     ],
     publishedAt: new Date("2022-05-03 20:00:00"),
   },
@@ -38,13 +38,13 @@ const posts: PostType[] = [
       role: "transporter of illegal products",
     },
     content: [
-      { type: "paragraph", content: "Fala galeraa 👋" },
+      { type: "paragraph", content: "Fala tropinha" },
       {
         type: "paragraph",
         content:
-          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "Conssegui um novo conjunto de panelas para venda, se alguém estiver a disposição de comprar só comentar que eu chamo no PV!",
       },
-      { type: "link", content: "jane.design/doctorcare" },
+      { type: "link", content: "https://www.bing.com/shop?q=conjunto+de+panelas&FORM=SHOPTB" },
     ],
     publishedAt: new Date("2022-05-10 13:14:57"),
   },
