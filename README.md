@@ -17,5 +17,5 @@ todo  código foi feito em ReactJS e quando estava na reta fina foi adaptado par
 
 ### LAYOUT:
 
-
+![Capa](https://github.com/GuilhermeArnecke/Ignite-Feed-TSX/assets/146779174/d34f8e2a-39d4-435e-ba61-18bfdc79296a)
 
